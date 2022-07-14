@@ -55,11 +55,11 @@ Entry Bus Bus
 	3175 3100 3275 3000
 Text Label 3275 4250 0    50   ~ 0
 D1
-Text Label 3275 4750 0    50   ~ 0
+Text Label 3275 4350 0    50   ~ 0
 D2
-Text Label 3275 4850 0    50   ~ 0
+Text Label 3275 4450 0    50   ~ 0
 D3
-Text Label 3275 4950 0    50   ~ 0
+Text Label 3275 4550 0    50   ~ 0
 D4
 Wire Wire Line
 	3625 4650 3275 4650
@@ -77,13 +77,13 @@ Entry Wire Line
 	3275 4850 3175 4750
 Entry Wire Line
 	3275 4950 3175 4850
-Text Label 3275 4650 0    50   ~ 0
+Text Label 3275 4950 0    50   ~ 0
 L4
-Text Label 3275 4550 0    50   ~ 0
+Text Label 3275 4850 0    50   ~ 0
 L3
-Text Label 3275 4450 0    50   ~ 0
+Text Label 3275 4750 0    50   ~ 0
 L2
-Text Label 3275 4350 0    50   ~ 0
+Text Label 3275 4650 0    50   ~ 0
 L1
 $Comp
 L Device:R R2
