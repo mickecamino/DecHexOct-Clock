@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DecHexOct-Clock)(type Legacy)(uri ${KIPRJMOD}/DecHexOct-Clock.lib)(options "")(descr ""))
+)
