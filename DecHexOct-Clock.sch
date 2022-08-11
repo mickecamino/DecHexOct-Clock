@@ -678,15 +678,9 @@ Entry Wire Line
 	5550 3100 5650 3000
 Text Label 5450 3175 0    50   ~ 0
 U
-Text Label 3850 1625 0    50   ~ 0
-5V
-Text Label 6450 1625 0    50   ~ 0
-5V
 Wire Wire Line
 	7550 2350 10200 2350
 Connection ~ 7550 2350
-Text Label 7550 1625 0    50   ~ 0
-5V
 Text Label 5370 1170 0    50   ~ 0
 U
 $Comp
@@ -1016,8 +1010,6 @@ Wire Wire Line
 	8850 4925 9675 4925
 Wire Wire Line
 	9675 4925 9675 4600
-Text Label 4960 1620 0    50   ~ 0
-5V
 Wire Wire Line
 	5370 1075 5370 1540
 Wire Wire Line
